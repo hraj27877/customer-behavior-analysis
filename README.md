@@ -55,8 +55,7 @@ Analyzing 3,900 customer transactions to understand shopping patterns, spending 
 
 ## 🖼️ Dashboard Preview
 
-<!-- ![Dashboard](<img width="1378" height="758" alt="Screenshot 2026-08-11 021452" src="https://github.com/user-attachments/assets/df3c57b8-4eec-4d13-b8dc-ce5adead230a" />
-.png) -->
+<img width="1378" height="758" alt="Screenshot 2026-08-11 021452" src="https://github.com/user-attachments/assets/01864f78-a921-49b4-b539-d8a6cb9f105c" />
 
 
 
